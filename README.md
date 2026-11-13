@@ -113,7 +113,7 @@
 
 **Что демонстрирует:** знакомство с Fullstack-архитектурой, серверными приложениями и реляционными базами данных.
 
-[📂 Исходный код](https://github.com/rusakovm/TestSystem)
+[📂 Исходный код](https://github.com/rusakovm/pareto-print)
 
 ---
 
